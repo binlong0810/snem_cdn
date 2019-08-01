@@ -1,0 +1,7 @@
+
+UPDATE_FOLDER	= "/emupdate/"
+URL_SERVICE = "emulator-game.com/snes/snes.php"
+KEY_JS_VERSION = "key_game_js_version"
+KEY_DATA_SERVICE = "key_cache_data_services"
+KEY_OPEN_COUNT = "key_open_count_game"
+KEY_OPEN_INIT = "key_open_init_game"
